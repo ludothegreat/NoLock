@@ -12,7 +12,7 @@ This PowerShell module provides functionality to automatically toggle the Scroll
 
 1. Download the `ScrollLockToggleModuleWithJobs.psm1` file.
 2. Place it in one of your PowerShell module paths. You can view these paths by running `$env:PSModulePath` in a PowerShell session.
-3. Import the module into your PowerShell session with `Import-Module ScrollLockToggleModuleWithJobs`.
+3. Import the module into your PowerShell session with `Import-Module NoLock`.
 
 ## Usage
 
